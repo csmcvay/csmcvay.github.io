@@ -7,7 +7,7 @@ csmcvay.github.io
   <li>Whats up:</li>
   <li>Make a <h3>Headline</h3></li>
   <li>I like Cats</li>
-  <li>Add an image (<a href="http://forum.koramgame.com/thread-60307-1-1.html">here's some help</a>): <img src="http://static3.businessinsider.com/image/5221df9169beddce49072b56/lil-bub-famed-internet-cat-with-dwarfism-gets-a-backstory-in-a-new-book.jp" height="50" width="50"</li>
+  <li>Add an image (<a href="http://forum.koramgame.com/thread-60307-1-1.html">here's some help</a>): <img src="http://static3.businessinsider.com/image/5221df9169beddce49072b56/lil-bub-famed-internet-cat-with-dwarfism-gets-a-backstory-in-a-new-book.jp"></li>
   
   <li><a href="http://www.coceleratoru.com">Link</a> to some website.</li>
   <li>Your link here: <a href="http://www.iluvcats.com/">iluvcats.com</a></a></li>
