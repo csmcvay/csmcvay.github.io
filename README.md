@@ -3,7 +3,7 @@ csmcvay.github.io
 
 <h2 id="Exercise1">Exercise 1</h2>
 <ol>
-  <li><b>Bold</b> Hola!</li>
+  <li><b>Meow</b></li>
   <li>Whats up:</li>
   <li>Make a <h3>Headline</h3></li>
   <li>I like Cats</li>
