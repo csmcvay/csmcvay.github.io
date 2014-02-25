@@ -1,10 +1,7 @@
 csmcvay.github.io
-=====================
 
-<h2 id="Exercise1">Exercise 1</h2>
-<ol>
-  <li><b>Meow</b></li>
-  <li><h3>Im a Cat lady</h3></li>
+  ** Meow **
+  ### Im a Cat lady ###
   <li>I like Cats</li>
   <li><img src="http://static3.businessinsider.com/image/5221df9169beddce49072b56/lil-bub-famed-internet-cat-with-dwarfism-gets-a-backstory-in-a-new-book.jp"></li>
   
