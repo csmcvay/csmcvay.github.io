@@ -8,4 +8,4 @@ I like Cats a whole bunch. I have two :)
 
 [iluvcats](http://www.iluvcats.com/)
 
-: cat : 
+:cat: 
